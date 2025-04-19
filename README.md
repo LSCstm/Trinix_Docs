@@ -3,13 +3,14 @@
 Welcome to the Trinix legal repository. This repo houses all of the official legal agreements for the Trinix bot, including our Terms of Service and Privacy Policy.
 
 ## 📄 Documents
-- **[License (EULA)](bot-legal-docs/LICENSE.txt)**  
+- **[License (EULA)](legal/LICENSE.txt)**
   The Trinix Proprietary License Agreement. All Rights Reserved.  
-- **[Terms of Service](bot-legal-docs/terms_of_service.md)**  
+- **[Terms of Service](legal/terms_of_service.md)**
   Rules and guidelines for lawful and acceptable use of Trinix.  
-- **[Privacy Policy](bot-legal-docs/privacy_policy.md)**  
+- **[Privacy Policy](legal/privacy_policy.md)** 
   How Trinix collects, uses, stores, and protects user data.
-  
+  ## 📄 Documents
+
 ---
 
 ## 📍 Discord Discovery
