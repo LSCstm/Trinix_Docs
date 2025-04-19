@@ -5,9 +5,9 @@ Welcome to the Trinix legal repository. This repo houses all of the official leg
 ## 📄 Documents
 - **[License (EULA)](legal/LICENSE.txt)**
   The Trinix Proprietary License Agreement. All Rights Reserved.  
-- **[Terms of Service](legal/terms_of_service.md)**
+- **[Terms of Service](legal/terms-of-service.md)**
   Rules and guidelines for lawful and acceptable use of Trinix.  
-- **[Privacy Policy](legal/privacy_policy.md)** 
+- **[Privacy Policy](legal/privacy-policy.md)** 
   How Trinix collects, uses, stores, and protects user data.
   ## 📄 Documents
 
