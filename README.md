@@ -9,3 +9,11 @@ Welcome to the Trinix legal repository. This repo houses all of the official leg
   Rules and guidelines for lawful and acceptable use of Trinix.  
 - **[Privacy Policy](bot-legal-docs/privacy_policy.md)**  
   How Trinix collects, uses, stores, and protects user data.
+  
+---
+
+## 📍 Discord Discovery
+
+Discover and add Trinix through the official Discord Discovery page:
+
+[🔗 View Trinix on Discord Discovery](https://discord.com/discovery/applications/1332261384490323971)
