@@ -1,6 +1,6 @@
 # Privacy Policy for Trinix
 
-Effective Date: 4/17/2025
+Effective Date: 4/19/2025
 
 This Privacy Policy explains how Trinix ("the Bot") collects, uses, and protects information provided by its users. By using Trinix, you agree to the collection and use of information in accordance with this Privacy Policy.
 
