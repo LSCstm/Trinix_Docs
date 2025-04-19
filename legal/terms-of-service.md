@@ -57,7 +57,7 @@ By using the Bot, you agree to:
 ---
 
 ## 4. Data Collection and Privacy
-The Bot may collect certain data as part of its functionality. For details on what data is collected, how it is used, and your rights, refer to our [Privacy Policy](https://github.com/LSCstm/Trinix_Docs/blob/main/bot-legal-docs/privacy-policy.md).
+The Bot may collect certain data as part of its functionality. For details on what data is collected, how it is used, and your rights, refer to our [Privacy Policy](privacy-policy.md).
 
 You are responsible for ensuring that all users on your server are aware of the Bot's data collection practices.
 
@@ -76,7 +76,7 @@ We reserve the right to terminate or suspend access to the Bot for any user or s
 ---
 
 ## 7. Intellectual Property
-Trinix and all its code, assets, and documentation are the exclusive, proprietary property of LSCstm. All rights are reserved under the [Trinix Proprietary License Agreement](https://github.com/LSCstm/Trinix_Docs/blob/main/bot-legal-docs/LICENSE.txt). Any copying, distribution, modification, sublicensing, reverse‑engineering, or creation of derivative works without express written permission is strictly prohibited.
+Trinix and all its code, assets, and documentation are the exclusive, proprietary property of LSCstm. All rights are reserved under the [Trinix Proprietary License Agreement](LICENSE.txt). Any copying, distribution, modification, sublicensing, reverse‑engineering, or creation of derivative works without express written permission is strictly prohibited.
 
 ---
 
