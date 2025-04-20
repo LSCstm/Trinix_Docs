@@ -9,8 +9,7 @@ Welcome to the Trinix legal repository. This repo houses all of the official leg
   Rules and guidelines for lawful and acceptable use of Trinix.  
 - **[Privacy Policy](legal/privacy-policy.md)** 
   How Trinix collects, uses, stores, and protects user data.
-  ## 📄 Documents
-
+  
 ---
 
 ## 📍 Discord Discovery
