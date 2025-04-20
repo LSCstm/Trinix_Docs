@@ -1,27 +1,28 @@
-Trinix Proprietary License Agreement
-© 2025 Trinix / LSCstm. All Rights Reserved.
+© 2025 Srdjan Lopez LLC dba Trinix. All Rights Reserved.
 
 1.  **License Grant**  
-    Trinix (“Licensor”) hereby grants you (“Licensee”) a non‑transferable, revocable, limited license to use the Trinix software solely for your personal purposes.
+    Srdjan Lopez LLC dba Trinix ("Licensor") grants you ("Licensee") a non-transferable, revocable, and limited license to use the Trinix software exclusively for your personal, non-commercial use, subject to the terms outlined in this Agreement.
 
 2.  **Restrictions**  
-    Licensee MAY NOT, without express written permission from Licensor:  
-    a. Copy, distribute, sublicense, rent, lease, lend, or sell the Software (in whole or part).  
-    b. Modify, adapt, translate, reverse‑engineer, decompile, disassemble, or create derivative works from the Software.  
-    c. Host, bundle, integrate, or redistribute the Software as part of any product or service.  
-    d. Remove, alter, or obscure any proprietary notices (copyright, patent, trademark) on the Software.
+    Licensee MAY NOT, without prior written consent from Licensor:  
+    a. Copy, distribute, sublicense, rent, lease, lend, or sell any part of the Software.
+    b. Modify, adapt, translate, reverse-engineer, decompile, disassemble, or create derivative works based on the Software.  
+    c. Host, bundle, integrate, or redistribute the Software as part of another product, service, or platform.  
+    d. Remove, alter, or obscure any copyright, trademark, or proprietary notices contained within the Software.
 
-3.  **No Tampering or Hacking**  
-    Licensee MAY NOT attempt to tamper with, bypass, disable, or otherwise circumvent any security, integrity‑check, copy‑protection, or licensing mechanisms built into the Software.
+3.  **Prohibition on Tampering**  
+    Licensee MAY NOT attempt to tamper with, disable, bypass, or otherwise circumvent any security features, integrity verification processes, licensing mechanisms, or protections implemented within the Software.
 
-4.  **Integrity Checks**  
-    The Software may perform integrity and authenticity checks at runtime. Any attempt to alter, patch, or corrupt the Software shall render this license immediately void and may subject Licensee to legal action.
+4.  **Integrity Verification**  
+    The Software may perform automatic integrity and authenticity checks during runtime. Any modification, corruption, or unauthorized alteration of the Software will immediately void this license and may result in legal action.
 
 5.  **Updates & Support**  
-    Licensor may, at its discretion, provide updates, patches, or new versions of the Software. Licensee’s right to receive and use such updates is governed by this same Agreement.
+    Licensor may, at its sole discretion, release updates, patches, or new versions of the Software. Licensee’s use of any updates will remain subject to this License Agreement unless otherwise stated.
 
 6.  **Disclaimer of Warranty**  
-    THE SOFTWARE IS PROVIDED “AS IS” AND LICENSOR EXPRESSLY DISCLAIMS ALL WARRANTIES, WHETHER EXPRESS, IMPLIED OR STATUTORY, INCLUDING WITHOUT LIMITATION ANY IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NONINFRINGEMENT.
+    THE SOFTWARE IS PROVIDED “AS IS,” WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED. LICENSOR EXPRESSLY DISCLAIMS ALL IMPLIED WARRANTIES, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
 
 7.  **Limitation of Liability**  
-    IN NO EVENT SHALL LICENSOR BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL OR CONSEQUENTIAL DAMAGES ARISING OUT OF OR IN CONNECTION WITH THE SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+    N NO EVENT SHALL LICENSOR BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR EXEMPLARY DAMAGES ARISING OUT OF OR RELATED TO YOUR USE OF THE SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+© 2025 Srdjan Lopez LLC dba Trinix. All Rights Reserved.
